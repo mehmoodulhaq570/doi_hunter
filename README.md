@@ -22,7 +22,13 @@ pip install doi_hunter
 ## Setup & Usage
 
 ### Step 1: Create a Directory and Paper Title List
-Create a directory with any name.
+-Create a directory with any name.
 - Inside that directory, create a file called paper_titles.txt.
 - This file should contain a list of paper titles or DOIs, each on a new line.
-- Example content for paper_titles.txt:
+
+Example content for paper_titles.txt:
+-
+AI Ethics: Balancing Innovation with Privacy and Security in the Digital Age
+10.1002/er.6529
+Prediction of daily global solar radiation using different machine learning algorithms: Evaluation and comparison
+
