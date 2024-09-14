@@ -17,6 +17,7 @@
 
 ```bash
 pip install doi_hunter
+````
 
 ## Setup & Usage
 
