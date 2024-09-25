@@ -1,0 +1,2 @@
+[console_scripts]
+doi_hunter = doi_hunter.__main__:main
