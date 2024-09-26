@@ -1,10 +1,10 @@
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/username/DoiHunter)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)(https://github.com/mehmoodulhaq570/doi_hunter)
 [![Build Status](https://travis-ci.com/username/DoiHunter.svg?branch=main)](https://travis-ci.com/username/DoiHunter)
-[![Test Coverage](https://coveralls.io/repos/github/username/DoiHunter/badge.svg?branch=main)](https://coveralls.io/github/username/DoiHunter?branch=main)
+[![Test Coverage](https://coveralls.io/repos/github/mehmoodulhaq570/doi_hunter/badge.svg?branch=main)](https://coveralls.io/github/mehmoodulhaq570/doi_hunter?branch=main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Issues](https://img.shields.io/github/issues/username/DoiHunter)](https://github.com/username/DoiHunter/issues)
-[![Size](https://img.shields.io/github/repo-size/username/DoiHunter.svg)](https://github.com/username/DoiHunter)
-[![Downloads](https://img.shields.io/github/downloads/username/DoiHunter/total.svg)](https://github.com/username/DoiHunter/releases)
+[![Issues](https://img.shields.io/github/issues/mehmoodulhaq570/doi_hunter)](https://github.com/mehmoodulhaq570/doi_hunter/issues)
+[![Size](https://img.shields.io/github/repo-size/mehmoodulhaq570/doi_hunter.svg)](https://github.com/mehmooulhaq570/doi_hunter)
+[![Downloads](https://img.shields.io/github/downloads/mehmoodulhaq570/doi_hunter/total.svg)](https://github.com/mehmoodulhaq570/doi_hunter/releases)
 
 # DoiHunter
 
