@@ -1,5 +1,5 @@
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)(https://github.com/mehmoodulhaq570/doi_hunter)
-[![Build Status](https://travis-ci.com/username/DoiHunter.svg?branch=main)](https://travis-ci.com/username/DoiHunter)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/mehmoodulhaq570/doi_hunter)
+[![Build Status](https://travis-ci.com/mehmoodulhaq570/doi_hunter.svg?branch=main)](https://travis-ci.com/mehmooulhaq570/doi_hunter)
 [![Test Coverage](https://coveralls.io/repos/github/mehmoodulhaq570/doi_hunter/badge.svg?branch=main)](https://coveralls.io/github/mehmoodulhaq570/doi_hunter?branch=main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Issues](https://img.shields.io/github/issues/mehmoodulhaq570/doi_hunter)](https://github.com/mehmoodulhaq570/doi_hunter/issues)
