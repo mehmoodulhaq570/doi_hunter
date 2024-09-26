@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: doi_hunter
+Version: 0.1.0
+Summary: A Python tool for downloading scientific papers using Crossref, and SciHub.
+Home-page: https://github.com/mehmoodulhaq570/doi_hunter
+Author: Mehmood Ul Haq
+Author-email: mehmoodulhaq1040@gmail.com
+Requires-Python: >=3.6
+License-File: LICENSE.txt
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
