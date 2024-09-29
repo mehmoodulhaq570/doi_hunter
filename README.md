@@ -70,3 +70,6 @@ At the end of the process, a summary is displayed showing the total number of pa
 The ```--batch_size``` option allows you to control how many papers are processed at once, useful for large datasets.
 The doi of the research paper must start like this **10.1016/j.rser.2016.05.022**
 Failed downloads are logged and can be retried later.
+
+## Contributors
+- [@Faisal-PCB](https://github.com/Faisal-PCB)
