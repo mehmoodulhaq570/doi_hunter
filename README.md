@@ -53,15 +53,15 @@ For more information and the source code, visit: https://github.com/mehmoodulhaq
 [INFO] Starting the download process...
 
 Processing [1/3]: AI Ethics: Balancing Innovation with Privacy and Security in the Digital Age
-[x] Failed to download file :(
+[v] File downloaded successfully :)
 Processing [2/3]: 10.1002/er.6529
 [v] File already exists. Skipping download.
 
 [SUMMARY]
-Total papers in file: 3
-Total successfully downloaded: 0
+Total papers in file: 2
+Total successfully downloaded: 1
 Total skipped files: 1
-Total failed downloads: 2
+Total failed downloads: 0
 ````
 **Summary of Logs**
 At the end of the process, a summary is displayed showing the total number of papers processed, successfully downloaded, skipped (if they already exist), and failed downloads.
